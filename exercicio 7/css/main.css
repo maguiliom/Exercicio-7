@@ -1,0 +1,141 @@
+*{
+    background-color:grey;
+  
+  
+  }
+  
+  aside{
+    padding:0;
+    margin:0;
+    float:left;
+    
+  
+  }
+  
+  h4{
+    font-family:tahoma, arial, sans-serif;
+    padding:0;
+    color:#4040ff
+  }
+  
+  p{
+    text-align:justify;
+    font-family:tahoma, arial, sans-serif;
+    font-size:15px;
+    color:#4040ff
+    
+  }
+  
+  .search{
+    float:center;
+    margin:0;
+    height:0;
+    padding:0;
+    
+  }
+  
+  .searchbar{
+    margin:-3.5px;
+    padding:4.5px;
+    font-family:tahoma,tahoma;
+  
+  }
+  
+  .searchbut{
+    cursor:pointer;
+    height:30px;
+    padding:3px;
+    margin-top:5px;
+    color:#FFFFFF;
+    display:flex-end;
+    
+  }
+  
+  .searchbut:hover{
+    background-color:red;
+  
+  }
+  
+  .nav{
+    text-align:justify;
+    list-style:none;
+    float:left;
+    
+  }
+  
+  .nav li{
+    padding:3px;
+    
+  }
+  
+  
+  .nav a{
+     font-family: tahoma;
+    text-decoration: none;
+    
+  }
+  
+  .nav a:hover{
+    color: red;
+    text-decoration:  underline;
+  }
+  
+  
+  .saibamais{
+    text-align:justify;
+    list-style:none;
+    float:left;
+  }
+  
+  .saibamais li{
+    padding:2px;
+  }
+  
+  
+  .saibamais a{
+    text-decoration:none;
+  }
+  
+  .saibamais a:hover{
+     color: red;
+    text-decoration:  underline;
+  }
+  
+  
+  
+  .licenca{
+    text-align:justify;
+    list-style:none;
+    float:left;
+  }
+  
+  .licenca li{
+    padding:2px;
+  }
+  
+  .licenca a {
+    text-decoration:none;
+  }
+  
+  .licenca a:hover{
+    color: red;
+    text-decoration:  underline;
+  }
+  
+  footer {
+    bottom:0;
+    position:absolute
+  
+  }
+  
+  .redes{
+    text-align:right;
+  }
+  
+  @media (min-width: 768px){
+    
+  }
+  
+  #container{
+    display:flex-end;
+  }
